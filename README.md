@@ -37,6 +37,7 @@ cd AI-Powered-Agricultural-Advisory-System
 # Commands for starting the web and mobile application.
 npm start
 
-
+# Try the Application
+https://partyrock.aws/u/AasthaKothari/tcf136VQY/AgroSmart-Companion
 
    
